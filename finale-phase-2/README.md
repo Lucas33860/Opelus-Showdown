@@ -1,2 +1,0 @@
-# 🏆 Finale Phase 2
-
