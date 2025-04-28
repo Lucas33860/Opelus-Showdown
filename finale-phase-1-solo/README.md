@@ -1,2 +1,6 @@
-# 🏆 Finale Phase 1
+---
+hidden: true
+---
+
+# 🏆 Finale Phase 1 (Solo)
 
