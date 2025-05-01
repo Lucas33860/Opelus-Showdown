@@ -1,6 +1,6 @@
 # 🔫 Apex Legends
 
-2 games de Apex Legends seront joué lors des qualifications et le score cumulés des deux games donnera le score final de votre équipe.\
+**2 games de Apex Legends** seront joué lors des qualifications et le score cumulés des deux games donnera le score final de votre équipe.\
 \
 Voici le barème de points pour Apex Legends :&#x20;
 

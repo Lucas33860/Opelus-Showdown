@@ -1,2 +1,0 @@
-# 🏌️ Golf With Your Friends
-

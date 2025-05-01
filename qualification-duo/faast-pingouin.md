@@ -1,6 +1,6 @@
 # 🐧 Faast Pingouin
 
-2 games de Faast Pingouin seront joué lors des qualifications.\
+**2 games de Faast Pingouin** seront joué lors des qualifications.\
 \
 Le barème de points de Faast Pingouin est le suivant : \
 \

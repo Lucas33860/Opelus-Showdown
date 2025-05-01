@@ -1,6 +1,6 @@
 # ⚡ Shootmania (Royal)
 
-2 games de Royal serons faites lors des qualifications
+**2 games de Royal** serons faites lors des qualifications
 
 1 map race et 1 map classique&#x20;
 
