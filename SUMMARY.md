@@ -26,7 +26,7 @@
 * [3️⃣ Phase 3 (Solo)](phase-3-solo/README.md)
   * [🔫 Apex Legends](phase-3-solo/apex-legends.md)
   * [🏌️ Golf With Your Friends](phase-3-solo/golf-with-your-friends.md)
-  * [🔮 TFT](phase-3-solo/tft.md)
+  * [🐧 Faast Pingouin](phase-3-solo/faast-pingouin.md)
   * [⚡ Shootmania (Royal)](phase-3-solo/shootmania-royal.md)
   * [💣 CS2](phase-3-solo/cs2.md)
 * [4️⃣ Phase 4 (Solo)](phase-4-solo/README.md)
