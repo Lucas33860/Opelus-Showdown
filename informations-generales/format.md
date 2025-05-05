@@ -6,6 +6,10 @@ Les inscriptions pour les qualification débuterons le Lundi 5 Mai jusqu'au Same
 \
 Des qualification auront lieu le Dimanche 18 Mai afin de savoir qui seront les 30 duos qui participeront au tournois officiel \
 \
+**L'horaire des qualifications sont :**\
+\
+Dimanche : 13h - 17h\
+\
 **Les dates et horaires du tournois sont :**  \
 \
 Samedi : 18h - 0h&#x20;\
