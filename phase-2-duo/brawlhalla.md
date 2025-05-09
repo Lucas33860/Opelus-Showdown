@@ -6,3 +6,5 @@
 
 Les 2 duos gagnant s'affrontent pour faire 1er et 2e\
 Les deux duos perdant s'affrontent pour faire 3e et 4e.
+
+<figure><img src="../.gitbook/assets/braw.png" alt=""><figcaption></figcaption></figure>
