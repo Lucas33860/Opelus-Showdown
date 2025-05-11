@@ -14,6 +14,7 @@ Tous manquement aux règles sera passible d'exclusion de la cup interdit : \
 * Team hors votre duo&#x20;
 * Échange hors votre duo
 * HDV&#x20;
+* Poubelle&#x20;
 
 Démarrer en partage d'écran sur ce screen&#x20;
 
