@@ -6,7 +6,7 @@ Avec le stuff récupéré lors du speedrun vous devrez vous affronter avec vos p
 \
 **2v2** **Arbre de tournois** BO3 2 équipe s'affronte ensuite les 2 duo gagnant s'affronte pour faire 1er et 2ème et pareil pour les deux duo perdant.\
 \
-**30min de games**
+**30min de game (max)**
 
 Avant le match merci d'envoyé un screen de votre inventaire une fois validé par le staff vous pourrez start.
 

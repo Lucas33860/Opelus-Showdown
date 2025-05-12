@@ -4,7 +4,7 @@ Le mode joué lors de cette phase 4 sera : \
 \
 **FFA (civilisation aléatoire)**
 
-Une civilisation sera tiré au sort aléatoirement et **TOUT** les joeurs jouerons la civilisation **!**
+Une civilisation sera tiré au sort aléatoirement et **TOUT** les joueurs jouerons la civilisation **!**
 
 **5 civilisation parmis les suivantes :**&#x20;
 
