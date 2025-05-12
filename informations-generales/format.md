@@ -12,7 +12,7 @@ Dimanche : 13h - 17h\
 \
 **Les dates et horaires du tournois sont :**  \
 \
-Samedi : 18h - 0h&#x20;\
+Samedi : 13h - 0h&#x20;\
 Dimanche : 13h - 19h / 19h30 - 00h00&#x20;\
 Lundi : 13h - 17h30  / 18h - 20h30 final / 21h - 00h00&#x20;
 
