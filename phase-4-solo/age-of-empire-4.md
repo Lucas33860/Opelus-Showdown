@@ -10,7 +10,7 @@ Une civilisation sera tiré au sort aléatoirement et **TOUT** les joueurs jouer
 
 * Francs
 * Maliens
-* Sait empire Romain
+* Saint empire Romain
 * Mongole
 * Abasside
 
