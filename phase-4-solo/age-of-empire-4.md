@@ -6,7 +6,7 @@ Le mode joué lors de cette phase 4 sera : \
 
 Une civilisation sera tiré au sort aléatoirement et **TOUT** les joueurs jouerons la civilisation **!**
 
-**5 civilisation parmis les suivantes :**&#x20;
+**5 civilisations parmis les suivantes :**&#x20;
 
 * Francs
 * Maliens
