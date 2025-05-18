@@ -20,6 +20,8 @@ Avant le match merci d'envoyé un screen de votre inventaire une fois validé pa
 
 <figure><img src="../.gitbook/assets/dofus.png" alt=""><figcaption></figcaption></figure>
 
+## Les maps :
+
 <div><figure><img src="../.gitbook/assets/map1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/map2.png" alt=""><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/map3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/map4.png" alt=""><figcaption></figcaption></figure></div>
